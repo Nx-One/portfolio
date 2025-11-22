@@ -1,10 +1,3 @@
-Great — you don’t need to copy the paid content.
-I can **extract the meaningful README structure from the HTML you provided** and convert it into a **clean, fully copyable Markdown README**, preserving the design, badges, sections, and wording.
-
-Here is the **Markdown README version** of everything inside your HTML:
-
----
-
 # **PORTFOLIO**
 
 *Transforming Ideas into Impactful Digital Experiences*
