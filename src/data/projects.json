@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Inventory Management System",
+    "description": "A web application for managing stock, suppliers, and orders with optimized transaction performance.",
+    "tech_stack": ["Laravel", "MySQL", "Bootstrap", "REST API"],
+    "image_url": "assets/images/inventory_system.png",
+    "project_url": "https://example.com/inventory",
+    "repository_url": "https://github.com/fikriap/inventory-system"
+  },
+  {
+    "id": 2,
+    "title": "Company Internal Dashboard",
+    "description": "A real-time data visualization dashboard for monitoring project performance and KPIs.",
+    "tech_stack": ["React", "Node.js", "Express", "MongoDB"],
+    "image_url": "assets/images/internal_dashboard.png",
+    "project_url": "https://example.com/dashboard",
+    "repository_url": "https://github.com/fikriap/internal-dashboard"
+  },
+  {
+    "id": 3,
+    "title": "E-Procurement Platform",
+    "description": "An online procurement system enabling secure bidding and vendor management for enterprises.",
+    "tech_stack": ["PHP", "Laravel", "Vue.js", "MySQL"],
+    "image_url": "assets/images/eprocurement.png",
+    "project_url": "https://example.com/eprocurement",
+    "repository_url": "https://github.com/fikriap/eprocurement-platform"
+  },
+  {
+    "id": 4,
+    "title": "Customer Relationship Management",
+    "description": "A comprehensive CRM system for managing customer interactions, sales pipeline, and support tickets.",
+    "tech_stack": ["Laravel", "MySQL", "JavaScript", "REST API"],
+    "image_url": "assets/images/crm_system.png",
+    "project_url": "https://example.com/crm",
+    "repository_url": "https://github.com/fikriap/crm-system"
+  },
+  {
+    "id": 5,
+    "title": "HR Management Portal",
+    "description": "An integrated HR platform for employee management, payroll processing, and performance tracking.",
+    "tech_stack": ["PHP", "Laravel", "MySQL", "Bootstrap"],
+    "image_url": "assets/images/hr_portal.png",
+    "project_url": "https://example.com/hr-portal",
+    "repository_url": "https://github.com/fikriap/hr-management"
+  },
+  {
+    "id": 6,
+    "title": "Logistics Tracking System",
+    "description": "A real-time tracking solution for managing shipments, routes, and delivery schedules.",
+    "tech_stack": ["Laravel", "MySQL", "Vue.js", "REST API"],
+    "image_url": "assets/images/logistics_tracking.png",
+    "project_url": "https://example.com/logistics",
+    "repository_url": "https://github.com/fikriap/logistics-tracking"
+  }
+]
